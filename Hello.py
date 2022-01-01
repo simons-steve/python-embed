@@ -1,1 +1,1 @@
-print("Hello World, from default Python instance?")
+print("Hello World, from Python 3!")
